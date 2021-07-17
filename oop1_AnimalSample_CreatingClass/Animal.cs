@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace oop1_AnimalSample_CreatingClass
 {
@@ -34,4 +30,20 @@ namespace oop1_AnimalSample_CreatingClass
             Console.WriteLine("Abstract voice"); //издать абстрактный звук
         }
     }
+//    Домашка
+//        1) Создать класс автомобиль
+//          Добавить поля:
+//            -Марка машины (string)
+//            -Модель машины (string)
+//            -Год выпуска (DateTime)
+//            -Год выпуска (DateTime)
+//            -Количество владельцев (int)
+//            -Имя текущего владельца (string) (или написанный нами ранее Person)
+//          Добавить методы
+//            -Новый владелец
+//              На вход поступает имя нового владельца,
+//              поле текущеговладельца меняет значение на новое
+//              количество владельцев увеличивается на 1
+//        2)
+//
 }
